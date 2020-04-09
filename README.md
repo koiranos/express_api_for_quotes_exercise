@@ -3,6 +3,11 @@
 This repository holds my solution for the codecademy project "Quote API".
 It is a presentation project for implementing the basic CRUD operations in a project.
 
+[![made-with-javascript](https://img.shields.io/badge/Made%20with-Javascript-green.svg)]()
+[![made-with-express](https://img.shields.io/badge/Made%20with-express.js-green.svg)]()
+[![made-with-html](https://img.shields.io/badge/Made%20with-HTML-green.svg)]()
+[![made-with-css](https://img.shields.io/badge/Made%20with-CSS-green.svg)]()
+
 ## Objecive
 
 I was asked to build a small JSON API, to serve up famous quotes about computers, technology, and programming.
@@ -45,7 +50,9 @@ If you want to check my solution run the code below inside project folder
 
 ```sh
 npm install
+node express.js
 ```
+Then you can go to ```sh http://localhost:4001/ ``` to interactwith the app 
 
 
 

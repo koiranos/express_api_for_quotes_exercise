@@ -52,7 +52,7 @@ If you want to check my solution run the code below inside project folder
 npm install
 node express.js
 ```
-Then you can go to ```sh http://localhost:4001/ ``` to interactwith the app 
+Then you can go to ``` http://localhost:4001/ ``` to interactwith the app 
 
 
 
